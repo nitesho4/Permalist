@@ -12,3 +12,7 @@ Intuitive Interface: Enjoy a user-friendly interface that makes task management 
 Sync Across Devices: Access your to-do lists from anywhere, anytime. Permalist seamlessly syncs your tasks across all your devices, ensuring you never miss a beat.
 
 Customizable: Tailor Permalist to suit your preferences. Choose from a range of customization options to personalize your task management experience.
+
+Contributing
+
+Contributions are welcome! If you're interested in contributing to Permalist, please refer to our Contribution Guidelines for more information.
